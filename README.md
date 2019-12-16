@@ -10,6 +10,6 @@ or
 r(10, true);
 ```
 just put this script tag
-```
+```javascript
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pred12/Math.js/Math.js"></script>
 ```
