@@ -36,7 +36,7 @@ Best html layout for this
   </head>
   <body>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pred12/Math.js/Math.js"></script>
-    <script scr="otherscript.js"></script>
+    <script src="otherscript.js"></script>
   </body>
 </html>
 ```
