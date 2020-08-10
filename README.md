@@ -1,4 +1,6 @@
 # Math!
+A fun thing I made in the summer of 2019
+
 Simple Math handeler, simple commands! way better than typing `Math.floor(Math.random()*5);` or with out floor their is also commands to do PI
 random / floor 
 ```javascript
